@@ -1,10 +1,10 @@
-# 👋 Hi, I'm @choudharyuzair2126!
+# 👋 Hi, I'm Choudhary Uzair!
 
 I'm a passionate Flutter developer focused on creating high-performance, user-friendly mobile applications. I love pushing the boundaries of what's possible in mobile development with Flutter and Dart.
 
 ## 🌟 About Me
 
-- 👋 Hi, I’m @choudharyuzair2126
+- 👋 Hi, I’m Choudhary Uzair
 - 👀 I’m interested in building innovative mobile solutions, exploring backend development, and integrating serverless architectures with mobile apps.
 - 🌱 I’m currently learning advanced backend integration with Node.js and cloud services like Firebase and Supabase.
 - 💞️ I’m looking to collaborate on exciting Flutter projects, especially those that challenge me to learn and grow.
@@ -16,9 +16,10 @@ I'm a passionate Flutter developer focused on creating high-performance, user-fr
 
 Here are some of the projects I've worked on:
 
-- **[Recipe App](#)**: A feature-rich app that provides a seamless experience for browsing and managing recipes.
-- **[Music Player App](#)**: A music player with advanced features like song position control, playlist management, and more.
-- **[Shopping App](#)**: An intuitive shopping app with a 'Buy Now' feature that integrates with email and messaging services.
+- **[Recipe App](https://github.com/choudharyuzair2126/Recipies-App)**: A feature-rich app that provides a seamless experience for browsing and managing recipes.
+- **[Music Player App](https://github.com/choudharyuzair2126/Music_App-Client_Side)**: A music player with advanced features like song position control, playlist management, and more.
+- **[Music Player Backend](https://github.com/choudharyuzair2126/Music_App-Server_Side)**:Also completed the backend for a music app, focusing on delivering a scalable and efficient solution.
+- **[Shopping App](https://github.com/choudharyuzair2126/Shopping_App-with-Firebase)**: An intuitive shopping app with a 'Buy Now' feature that integrates with email and messaging services.
 
 Feel free to explore my repositories to see more of my work!
 
@@ -26,7 +27,7 @@ Feel free to explore my repositories to see more of my work!
 
 - **Languages**: Dart, C++
 - **Frameworks**: Flutter
-- **Tools**: Riverpod, Just Audio, Firebase, Supabase, Node.js
+- **Tools**: Riverpod, Just Audio, Firebase, Supabase, Python
 - **Databases**: Firestore, PostgreSQL
 
 ## 🚀 What I'm Working On
@@ -37,7 +38,7 @@ I’m currently focused on developing innovative mobile solutions that combine p
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me!
 
-- **GitHub**: https://github.com/choudharyuzair2126/
+- **GitHub**: (https://github.com/choudharyuzair2126/)
 - **LinkedIn**:https://www.linkedin.com/in/choudharyuzair2126/
 
 ## 🌱 Learning and Growing
