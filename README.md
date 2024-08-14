@@ -20,6 +20,7 @@ Here are some of the projects I've worked on:
 - **[Music Player App](https://github.com/choudharyuzair2126/Music_App-Client_Side)**: A music player with advanced features like song position control, playlist management, and more.
 - **[Music Player Backend](https://github.com/choudharyuzair2126/Music_App-Server_Side)**:Also completed the backend for a music app, focusing on delivering a scalable and efficient solution.
 - **[Shopping App](https://github.com/choudharyuzair2126/Shopping_App-with-Firebase)**: An intuitive shopping app with a 'Buy Now' feature that integrates with email and messaging services.
+- **[AI Chat App](https://github.com/choudharyuzair2126/Gemini-Ai)**: Developed an AI app similar to ChatGPT and Google Gemini, focusing on delivering conversational AI experiences.
 
 Feel free to explore my repositories to see more of my work!
 
