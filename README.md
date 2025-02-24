@@ -8,7 +8,7 @@ I'm a passionate Flutter developer focused on creating high-performance, user-fr
 - 👀 I’m interested in building innovative mobile solutions, exploring backend development, and integrating serverless architectures with mobile apps.
 - 🌱 I’m currently learning advanced backend integration with Python,Node.js and cloud services like Firebase and Supabase.
 - 💞️ I’m looking to collaborate on exciting Flutter projects, especially those that challenge me to learn and grow.
-- 📫 How to reach me: [GitHub](https://github.com/choudharyuzair2126), [LinkedIn](https://www.linkedin.com/in/choudharyuzair2126/), [Email](mailto:uzair2126@proton.me)
+- 📫 How to reach me: [GitHub](https://github.com/choudharyuzair2126), [Email](mailto:uzair2126@proton.me)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a huge fan of music and love creating apps that bring great user experiences to music lovers!
 
@@ -43,7 +43,6 @@ I’m currently focused on developing innovative mobile solutions that combine p
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me!
 
 - **GitHub**: [https://github.com/choudharyuzair2126](https://github.com/choudharyuzair2126)
-- **LinkedIn**: [https://www.linkedin.com/in/choudharyuzair2126](https://www.linkedin.com/in/choudharyuzair2126)
 - **Email**: [uzair2126@proton.me](mailto:uzair2126@proton.me)
 
 ## 🌱 Learning and Growing
