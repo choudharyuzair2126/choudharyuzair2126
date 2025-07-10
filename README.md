@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 - **[Shopping App](https://github.com/choudharyuzair2126/Shopping_App-with-Firebase)**: An intuitive shopping app with a 'Buy Now' feature that integrates with email and messaging services.
 - **[AI Chat App](https://github.com/choudharyuzair2126/Gemini-Ai)**: Developed an AI app similar to ChatGPT and Google Gemini, focusing on delivering conversational AI experiences.
 - **[ToDo App](https://github.com/choudharyuzair2126/Todo-App-With-Firebase)**: Developed a todo app where you can save articles or notes with title and description or details you can delete that article or note and also edit them.
-- **[Trackizer](https://github.com/choudharyuzair2126/Trackizer)**: A budget-tracking app designed for managing spending, setting budget limits, and tracking expenses with ease. It also includes credit card management for online payments across shopping, food, travel tickets, subscriptions, and more.
+- **[Trackizer](https://github.com/choudharyuzair2126/Trackizer-)**: A budget-tracking app designed for managing spending, setting budget limits, and tracking expenses with ease. It also includes credit card management for online payments across shopping, food, travel tickets, subscriptions, and more.
 
 
 Feel free to explore my repositories to see more of my work!
