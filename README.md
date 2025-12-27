@@ -33,7 +33,7 @@ Feel free to explore my repositories to see more of my work!
 - **Languages**: Dart, C++, Python
 - **Frameworks**: Flutter
 - **Tools**: Riverpod, Just Audio, Firebase, Supabase, Python
-- **Databases**: Firestore, PostgreSQL
+- **Databases**: Firestore, PostgreSQL, Supabase
 
 ## 🚀 What I'm Working On
 
